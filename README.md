@@ -1,4 +1,4 @@
-# Learning Rust With Entirely Too Many Linked Lists
+# Book: Learning Rust With Entirely Too Many Linked Lists
 A repository to use as I work through the book Learning Rust With Entirely Too Many Linked Lists.
 
 # References:
