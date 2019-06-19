@@ -4,6 +4,8 @@ pub mod third;
 pub mod fourth;
 pub mod fifth;
 
+pub mod silly1;
+
 #[cfg(test)]
 mod tests {
   #[test]
